@@ -1,0 +1,10 @@
+c:\users\propietario\documents\visual studio 2015\Projects\BDD_2\BDD_2\bin\Debug\BDD_2.exe.config
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\bin\Debug\BDD_2.exe
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\bin\Debug\BDD_2.pdb
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\bin\Debug\MySql.Data.dll
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\bin\Debug\MySql.Data.xml
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\obj\Debug\BDD_2.Properties.Resources.resources
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\obj\Debug\BDD_2.csproj.GenerateResource.Cache
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\obj\Debug\BDD_2.exe
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\obj\Debug\BDD_2.pdb
+c:\Users\PROPIETARIO\Documents\Visual Studio 2015\Projects\BDD_2\BDD_2\obj\Debug\BDD_2.csprojResolveAssemblyReference.cache
